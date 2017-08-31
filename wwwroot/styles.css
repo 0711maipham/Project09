@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+    width: 675px;
+    font-family: Century Gothic;
+    font-size: 70px;
+    font-variant: small-caps;
+    background-color: #393939;
+    margin-left: -15px;
+    padding: 20px;
+}
