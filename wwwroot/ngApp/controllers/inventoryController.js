@@ -31,10 +31,11 @@ class InventoryController {
             console.log(td);
             if (td.innerHTML.toUpperCase().indexOf(filter) > -1) {
                 tr[i].style.display = "";
+                this.Error = "Not in our Inventory.";
             } 
               else {
                 tr[i].style.display = "none";
-                this.Error = "Not in our Inventory.";
+                
               }
         }  
             
