@@ -8,3 +8,17 @@ h1 {
     margin-left: -15px;
     padding: 20px;
 }
+
+nav {
+    margin-left: -20px;
+}
+
+nav a {
+    color: white;
+    background-color: #9F1515;
+    width: 200px;
+    padding: 10px;
+    margin: 5px;
+    width: 100px;
+
+}

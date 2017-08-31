@@ -5,7 +5,7 @@ class InventoryController {
             {Make: "Volkswagen",  Model: "Jetta", Color: "White", Year: 2017, Price: 15482},
             {Make: "Volkswagen",  Model: "GTI", Color: "Black", Year: 2006, Price: 20985},
             {Make: "Volkswagen",  Model: "Touareg", Color: "Grey", Year: 2005, Price: 30584},
-            {Make: "Volkswagen",  Model: "eos", Color: "Silver", Year: 2000, Price: 68742},
+            {Make: "Volkswagen",  Model: "Eos", Color: "Silver", Year: 2000, Price: 68742},
             {Make: "Volkswagen",  Model: "New Beetle", Color: "Black", Year: 2016, Price: 13548},
             {Make: "Volkswagen",  Model: "R32", Color: "Blue", Year: 2009, Price: 16574},
             {Make: "Volkswagen",  Model: "Continental Flying Spur", Color: "Black", Year: 2012, Price: 11586},

@@ -2,6 +2,10 @@ body {
     background-color: black;
 }
 
+p {
+    margin: 30px;
+}
+
 div {
     width: 600px;
     background-color: white;
